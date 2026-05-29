@@ -1,0 +1,343 @@
+nohup: ignoring input
+aviad_true-termination_true-no-overflow-version2
+TRUE 9.52
+CookSeeZuleger-TACAS2013-Fig8a-modified_true-termination_true-no-overflow
+TRUE 5.45
+3pieces_Caterina_TACAS16
+TRUE 4.87
+nonlin_mult_term_9
+UNKNOWN 11.07
+term_26
+UNKNOWN 67.14
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version3
+UNKNOWN 9.73
+trex03_false-unreach-call_true-termination-modif
+TRUE 5.66
+GulwaniJainKoskinen-PLDI2009-Fig1_true-termination-version1
+Timeout 120.01
+McCarthyIterative_true-termination_true-no-overflow
+TRUE 6.63
+ex1_false-no-overflow_true-termination
+TRUE 3.81
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination-version
+TRUE 5.05
+term_24
+TRUE 5.85
+Lobnya-Boolean-Reordered_true-termination_true-valid-memsafety
+TRUE 3.75
+Et1_false-no-overflow_true-termination
+TRUE 3.31
+Problem00_label00_true-unreach-call-toy
+TRUE 8.61
+BradleyMannaSipma-ICALP2005-Fig1_true-termination
+Timeout 120.01
+ChenFlurMukhopadhyay-SAS2012-Ex4.01_false-no-overflow-simpl
+TRUE 4.32
+nonlin_mod_term_1
+ 4.5
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig9_true-termination
+UNKNOWN 8.52
+PodelskiRybalchenko-LICS2004-Fig2_true-termination-modif1
+TRUE 26.99
+term_25
+TRUE 16.94
+term_02
+UNKNOWN 2.19
+aviad_true-termination_true-no-overflow
+TRUE 3.52
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version4
+UNKNOWN 9.34
+Pure2Phase_false-no-overflow
+TRUE 4.5
+term_07
+TRUE 6.86
+ChenFlurMukhopadhyay-SAS2012-Ex2.13_true-termination
+TRUE 3.6
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination
+UNKNOWN 8.22
+ChawdharyCookGulwaniSagivYang-ESOP2008-aaron6_true-termination
+TRUE 4.39
+ChenFlurMukhopadhyay-SAS2012-Ex4.01_false-no-overflow
+TRUE 5.03
+nonlin_div_term_1
+UNKNOWN 9.26
+UrbanMine-ESOP2014-Fig3_true-termination_true-no-overflow
+TRUE 5.86
+aaron3_true-termination_true-valid-memsafety
+TRUE 5.41
+AliasDarteFeautrierGonnord-SAS2010-wise_true-termination_true-no-overflow
+TRUE 4.95
+b.10_true-termination_true-no-overflow
+TRUE 3.76
+Masse-VMCAI2014-Fig1b_true-termination-version-2
+UNKNOWN 10.08
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig8_true-termination
+UNKNOWN 6.91
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig9_true-termination-version
+TRUE 4.35
+AliasDarteFeautrierGonnord-SAS2010-speedpldi2_true-termination_true-no-overflow
+TRUE 4.34
+GulwaniJainKoskinen-PLDI2009-Fig1_true-termination-version2
+Timeout 120.01
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version1
+UNKNOWN 6.87
+Singapore_false-no-overflow
+TRUE 4.18
+determ_term_6
+TRUE 67.61
+aaron3_false-no-overflow
+TRUE 5.34
+GulwaniJainKoskinen-PLDI2009-Fig1_true-termination
+Timeout 120.01
+Nyala-2lex_true-no-overflow_true-termination_true-valid-memsafety-version
+TRUE 4.76
+Toulouse-BranchesToLoop-alloca_true-termination
+TRUE 4.6
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig5_true-termination_true-no-overflow-version
+UNKNOWN 8.81
+PodelskiRybalchenko-simpl2
+TRUE 4.84
+PodelskiRybalchenko-simpl1
+TRUE 6.0
+term_16
+Timeout 120.01
+AliasDarteFeautrierGonnord-SAS2010-speedpldi3_true-termination_true-no-overflow
+TRUE 5.48
+term_17
+UNKNOWN 12.71
+term_14
+Timeout 120.01
+4NestedWith2Variables_false-no-overflow
+Timeout 120.01
+term_19
+UNKNOWN 31.64
+determ_term_1
+UNKNOWN 6.85
+Piecewise_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 5.78
+term_23
+TRUE 9.97
+Ben-Amram-2010LMCS-Ex2.3-alloca_true-termination-modified2
+TRUE 13.03
+b.11_true-termination_true-no-overflow
+TRUE 4.01
+determ_term_7
+TRUE 4.99
+GulavaniGulwani-CAV2008-Fig1a_true-termination
+TRUE 6.5
+Mysore_false-no-overflow
+TRUE 3.58
+PodelskiRybalchenko-simpl3
+TRUE 4.87
+4NestedWith3Variables_false-no-overflow
+Timeout 120.01
+Copenhagen_disj_true_version
+UNKNOWN 22.43
+PodelskiRybalchenko-LICS2004-Fig2_true-termination
+TRUE 30.38
+term_18
+UNKNOWN 69.52
+genady_true-termination_true-no-overflow
+TRUE 3.44
+term_08
+TRUE 3.13
+CookSeeZuleger-TACAS2013-Fig1_true-termination_true-no-overflow
+TRUE 4.4
+Pure3Phase_false-no-overflow
+ 34.3
+term_10
+TRUE 8.93
+term_03
+UNKNOWN 2.23
+term_11
+TRUE 7.93
+term_09
+TRUE 7.01
+nonlin_div_term_2
+UNKNOWN 8.56
+3pieces_Caterina_TACAS16_modif_3
+Timeout 120.01
+PodelskiRybalchenko-TACAS2011-Fig4_true-termination_true-no-overflow
+TRUE 4.8
+aaron3_false-no-overflow-version
+TRUE 3.61
+Ben-Amram-2010LMCS-Ex2.3-alloca_true-termination-modified1
+TRUE 10.13
+MenloPark_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 3.75
+AliasDarteFeautrierGonnord-SAS2010-cousot9_true-termination_true-no-overflow
+TRUE 4.23
+nonlin_mult_term_6
+TRUE 7.49
+b.11_true-termination_true-no-overflow-simpl
+TRUE 3.79
+Masse-VMCAI2014-Fig1b_true-termination-version-1
+UNKNOWN 9.53
+aviad_true-termination_true-no-overflow-version3
+TRUE 3.8
+term_12
+TRUE 4.46
+determ_term_5
+UNKNOWN 76.02
+term_13
+TRUE 5.4
+AliasDarteFeautrierGonnord-SAS2010-counterex1a_false-no-overflow
+TRUE 6.9
+determ_term_3
+UNKNOWN 103.6
+term_05
+TRUE 3.91
+Pure2Phase_true-termination_true-valid-memsafety
+TRUE 4.74
+genady_true-termination_true-no-overflow-version
+TRUE 3.24
+nonlin_mult_term_5
+UNKNOWN 8.42
+term_28
+TRUE 3.72
+PodelskiRybalchenko-VMCAI2004-Ex1_false-no-overflow-version
+Timeout 120.01
+AliasDarteFeautrierGonnord-SAS2010-rsd_true-termination
+TRUE 8.36
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig5_true-termination_true-no-overflow
+UNKNOWN 8.56
+Gothenburg_v3_false-no-overflow
+Timeout 120.01
+CookSeeZuleger-TACAS2013-Fig7b-true-termination_true-no-overflow
+TRUE 6.06
+java_AG313_true-termination_true-no-overflow
+TRUE 3.62
+NoriSharma-2013FSE-Fig8-true-termination
+TRUE 4.93
+Cairo_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 3.75
+ChenFlurMukhopadhyay-SAS2012-Ex4.01_false-no-overflow-version1
+TRUE 3.94
+term_27
+TRUE 6.73
+Thun_false-no-overflow
+TRUE 3.36
+PodelskiRybalchenko-VMCAI2004-Ex1_false-no-overflow
+TRUE 11.52
+trex03_false-unreach-call_true-termination-simpl
+TRUE 4.99
+Copenhagen_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 3.91
+trex03_false-unreach-call_true-termination
+TRUE 6.25
+term_04
+TRUE 4.29
+b.03-no-inv_assume_true-termination_true-no-overflow
+TRUE 3.45
+term_15
+TRUE 4.03
+term_20
+TRUE 3.41
+Gothenburg_v4_false-no-overflow
+Timeout 120.01
+NoriSharma-2013FSE-Fig8-true-termination-modif
+TRUE 4.98
+3pieces_Caterina_TACAS16_modif_1
+TRUE 29.28
+PodelskiRybalchenko-LICS2004-Fig2_true-termination-modif2
+TRUE 60.08
+ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_false-no-overflow
+UNKNOWN 11.38
+Singapore_false-no-overflow-version
+TRUE 3.5
+nonlin_mod_term_2
+ 4.78
+CookSeeZuleger-TACAS2013-Fig7a-true-termination_true-no-overflow
+TRUE 5.7
+min_rf-alloca_true-termination
+Timeout 120.01
+ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-no-overflow
+UNKNOWN 56.57
+ChenFlurMukhopadhyay-SAS2012-Ex4.01_false-no-overflow-version2
+UNKNOWN 8.78
+nonlin_mod_term_4
+ 5.57
+nonlin_mod_term_3
+UNKNOWN 8.45
+nonlin_mult_term_8
+UNKNOWN 8.83
+term_01
+TRUE 3.91
+Masse-VMCAI2014-Fig1b_true-termination
+UNKNOWN 8.91
+determ_term_2
+UNKNOWN 7.03
+term_29
+Timeout 120.01
+for_bounded_loop1_false-unreach-call_true-termination-simplified
+TRUE 3.37
+Parallel_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 3.93
+Gothenburg_false-no-overflow
+TRUE 9.71
+MenloPark_true-no-overflow_true-termination_true-valid-memsafety-modif
+TRUE 3.92
+term_06
+TRUE 3.51
+Ben-Amram-2010LMCS-Ex2.3-alloca_true-termination
+TRUE 9.64
+nonlin_mult_term_2
+UNKNOWN 8.09
+determ_term_4
+UNKNOWN 11.51
+Copenhagen_disj_true-termination_true-valid-memsafety
+UNKNOWN 20.27
+TelAviv-Amir-Minimum-alloca_true-termination
+TRUE 8.24
+c.07_true-termination_true-no-overflow
+TRUE 3.29
+nonlin_mult_term_3
+UNKNOWN 9.02
+determ_term_8
+UNKNOWN 8.93
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version6
+UNKNOWN 9.28
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version2
+UNKNOWN 6.83
+HeizmannHoenickeLeikePodelski-ATVA2013-Fig8_true-termination-version
+UNKNOWN 7.07
+term_22
+TRUE 11.8
+nonlin_jump_over_1_term
+Timeout 120.01
+nonlin_mult_term_4
+TRUE 6.3
+PodelskiRybalchenko-LICS2004-Fig2_true-termination-simpl
+TRUE 6.69
+Gothenburg_v2_false-no-overflow
+UNKNOWN 16.04
+Nyala-2lex_true-no-overflow_true-termination_true-valid-memsafety
+TRUE 4.73
+nonlin_mult_term_7
+UNKNOWN 9.06
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow
+UNKNOWN 6.96
+eca_bounded_core
+TRUE 4.38
+aviad_true-termination_true-no-overflow-version1
+TRUE 6.91
+Masse-VMCAI2014-Fig1a_true-termination
+TRUE 4.52
+3pieces_Caterina_TACAS16_modif_2
+TRUE 80.28
+transform_1
+TRUE 5.64
+c.07_true-termination_true-no-overflow-simpl
+Timeout 120.01
+AliasDarteFeautrierGonnord-SAS2010-speedFails4_true-termination
+TRUE 4.96
+ChenFlurMukhopadhyay-SAS2012-Ex1.02_false-no-overflow
+TRUE 4.0
+ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4_true-termination
+TRUE 5.35
+nonlin_mult_term_1
+UNKNOWN 7.48
+term_21
+UNKNOWN 8.76
+ChenFlurMukhopadhyay-SAS2012-Ex1.01_false-no-overflow-version5
+FALSE(TERM) 2.93
